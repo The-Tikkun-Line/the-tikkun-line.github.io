@@ -10,6 +10,8 @@ We use Hearing Voices & Intentional Peer Support peer models and a Transformativ
 
 Our name comes from "Tikkun Olam", meaning "world repair" in Hebrew, which is a core principle in Judaism that emphasizes the responsibility to improve the world and make it a more just, equitable, and harmonious place.
 
+We are trans and feminist run, and acknowledge the humanity in men, women, transpeople, and gender expansive individuals.
+
 <div class="post-header">
 	<h1 class="post-title">Who We Are</h1>
 </div>
