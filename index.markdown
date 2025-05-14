@@ -5,4 +5,4 @@
 layout: home
 ---
 <h2>{{ site.description | escape }}</h2>
-<h2>We use Hearing Voices & Intentional Peer Support peer models and a Transformative Justice liberatory approach.
+<h2>We aim to use Hearing Voices & Intentional Peer Support peer models and a Transformative Justice liberatory approach. We acknowledge that learning these practices and unlearning oppression is the work of a lifetime.</h2>
