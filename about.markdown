@@ -8,7 +8,7 @@ The Tikkun Line is a peer support project for people who experience extreme or a
 
 We aim to use Hearing Voices & Intentional Peer Support peer models and a Transformative Justice liberatory approach. We acknowledge that we are constantly learning these practices.
 
-Our name comes from "Tikkun Olam", meaning "world repair" in Hebrew; a core principle in Judaism that emphasizes the responsibility to improve the world and make it a more just, equitable, and harmonious place. Our logo is a dove carrying a phone like an olive branch, symbolizing world repair by striving toward healthy communication and connection while we acknowledge that the pragmatics of unlearning oppression is the work of a life time.
+Our name comes from "Tikkun Olam", meaning "world repair" in Hebrew; a core principle in Judaism that emphasizes the responsibility to improve the world and make it a more just, equitable, and harmonious place. Our logo is a dove carrying a phone like an olive branch, symbolizing world repair by striving toward healthy communication and connection while we acknowledge that the pragmatics of unlearning oppression and healthy connection is the work of a life time.
 
 We acknowledge the humanity in men, women, transpeople, and gender expansive individuals. At this time, we are focused on providing care for trans individuals, women, and gender expansive people because that is the expertise we currently have on the team. We hope to be able to host a space that is inclusive for all people as we gain knowledge about anti-oppressive, trauma informed care for men.
 
