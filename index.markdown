@@ -4,3 +4,5 @@
 
 layout: home
 ---
+<h2>{{ site.description | escape }}</h2>
+<h2>We use a Transformative Justice liberatory approach and Hearing Voices & Intentional Peer Support peer models.
