@@ -8,7 +8,7 @@ The Tikkun Project is a peer support initiative for people who experience extrem
 
 Our work is grounded in the Hearing Voices approach, Intentional Peer Support, and a transformative justice approach. We are always learning how to bring these values into real life—especially in a world that is messy, unpredictable, and full of imperfect people like us.
 
-Our name comes from Tikkun Olam, a Hebrew phrase meaning “repair of the world.” For us, this reflects the never ending work of restorative and transformative justice—healing journies not just individuals, but systems and relationships too.
+Our name comes from Tikkun Olam, a Hebrew phrase meaning “repair of the world.” For us, recovery isn’t just about getting better as individuals—it’s about healing our relationships, our communities, and the systems we’re in. Recovery is ongoing. It’s messy, nonlinear, and deeply connected to justice. We don’t see healing, liberation, or sustainable revolution as things you arrive at once and for all—they’re practices we return to every day.
 
 We affirm the humanity of men, women, trans people, and gender-expansive folks. Right now, our offerings are focused on supporting trans people, women, and gender-expansive individuals, because that’s where our team has the most lived and professional experience. As we grow and deepen our understanding of trauma-informed, anti-oppressive care for men, we hope to create space that truly welcomes everyone.
 
