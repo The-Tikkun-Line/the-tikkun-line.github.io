@@ -16,7 +16,7 @@ We affirm the humanity of men, women, trans people, and gender-expansive folks. 
 	<h1 class="post-title">Who We Are</h1>
 </div>
 <div class="post-content">
-	About 75% of our team experiences nonconsensus reality. In medical terms, this might be described as "psychosis," though that term is less favored in the broader disability and mad liberation communities. Based on the land of the Multnomah, Clackamas, Kathlamet, Tualatin Kalapuya, and Molalla people referred to as Multnomah County, OR.
+	About 75% of our team experiences nonconsensus reality. In medical terms, this might be described as "psychosis," though that term is less favored in the broader disability and mad liberation communities. We are based on the land of the Multnomah, Clackamas, Kathlamet, Tualatin Kalapuya, and Molalla people referred to as Multnomah County, OR.
 </div>
 
 <div class="post-header">
