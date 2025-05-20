@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The Tikkun Line
+title: The Tikkun Project
 email: thetikkunline@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
   A peer support project for people who experience extreme or altered states, non-consensus realities, psychosis, or use other words that best describe their own experiences.

@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-The Tikkun Line is a peer support project for people who experience extreme or altered states, non-consensus realities, psychosis, or use other words that best describe their own experiences.
+The Tikkun Project is a peer support initiative for people who experience extreme or altered states, non-consensus realities, psychosis, or use their own language to describe these ways of being.
 
-We aim to use Hearing Voices & Intentional Peer Support peer models and a Transformative Justice liberatory approach. We acknowledge that we are constantly learning these practices.
+Our work is grounded in the Hearing Voices movement, Intentional Peer Support, and a transformative justice approach. We are always learning how to bring these values into real life—especially in a world that is messy, unpredictable, and full of imperfect people like us.
 
-Our name comes from "Tikkun Olam", meaning "world repair" in Hebrew; a core principle in Judaism that emphasizes the responsibility to improve the world and make it a more just, equitable, and harmonious place. Our logo is a dove carrying a phone like an olive branch, symbolizing world repair by striving toward healthy communication and connection while we acknowledge that the pragmatics of unlearning oppression and healthy connection to ourselves, others, and the land is the work of a life time.
+Our name comes from Tikkun Olam, a Hebrew phrase meaning “repair of the world.” For us, this reflects the spirit of restorative and transformative justice—healing not just individuals, but systems and relationships too.
 
-We acknowledge the humanity in men, women, transpeople, and gender expansive individuals. At this time, we are focused on providing care for trans individuals, women, and gender expansive people because that is the expertise we currently have on the team. We hope to be able to host a space that is inclusive for all people as we gain knowledge about anti-oppressive, trauma informed care for men.
+We affirm the humanity of men, women, trans people, and gender-expansive folks. Right now, our offerings are focused on supporting trans people, women, and gender-expansive individuals, because that’s where our team has the most lived and professional experience. As we grow and deepen our understanding of trauma-informed, anti-oppressive care for men, we hope to create space that truly welcomes everyone.
 
 <div class="post-header">
 	<h1 class="post-title">Who We Are</h1>
