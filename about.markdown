@@ -12,7 +12,9 @@ Our name comes from Tikkun Olam, a Hebrew phrase that means “repair of the wor
 
 We affirm the humanity of men, women, trans people, and gender-expansive folks. Right now, our offerings are focused on supporting trans people, women, and gender-expansive individuals, because that’s where our team has the most lived and professional experience. As we grow and deepen our understanding of trauma-informed, anti-oppressive care for men, we hope to create space that truly welcomes everyone.
 
-Our goal is to support people with highly stigmatized forms of neurodivergence—like many of our peers and our founder—by offering relationship-based, self-directed, non-clinical alternatives rooted in the belief that each person is the expert on themselves. We do this to foster healing, strengthen personal agency, and protect the autonomy of people like us outside of state of clinical systems.
+Our goal is to support people with highly stigmatized forms of neurodivergence—like most of our team and leadership—by offering relationship-based, self-directed, non-clinical alternatives rooted in the belief that each person is the expert on themselves. We do this to foster healing, strengthen personal agency, and protect the autonomy of people like us outside of state of clinical systems.
+
+<hr />
 
 <div class="post-header">
 	<h1 class="post-title">Who We Are</h1>
