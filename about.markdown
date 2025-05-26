@@ -6,7 +6,7 @@ permalink: /about/
 
 The Tikkun Project is a peer support initiative for people who experience extreme or altered states, non-consensus realities, psychosis, or use their own language to describe these ways of being.
 
-Our work is grounded in the Hearing Voices approach, Intentional Peer Support, and a transformative justice framework. We are always learning how to bring these values into real life—especially in a world that is messy, unpredictable, and full of imperfect people like us.
+Our work is grounded in the Hearing Voices approach, Intentional Peer Support, and a Transformative Justice framework. We are always learning how to bring these values into real life—especially in a world that is messy, unpredictable, and full of imperfect people like us.
 
 Our name comes from Tikkun Olam, a Hebrew phrase meaning “repair of the world.” To us, recovery does not mean repairing ourselves, but out relations with ourselves, our loved ones, our communities, and the systems around us. Recovery is ongoing and is never finished. It’s messy, nonlinear, and recognizes ourselves as agents of creation and change. We don’t see healing, liberation, or lasting change as one-time events—they’re everyday practices we keep returning to imperfectly.
 
